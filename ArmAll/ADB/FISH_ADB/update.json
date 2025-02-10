@@ -1,6 +1,6 @@
 {
     "versionCode": 1,
     "version": "v1",
-    "zipUrl": "https://gh-proxy.com/https://github.com/refined-fish/Magisk_Mod/releases/download/ArmAll/FISH_ADB.zip",
-    "changelog": "https://gh-proxy.com/https://raw.githubusercontent.com/refined-fish/Magisk_Mod/refs/heads/main/ChangeLog/FISH_ADB/ChangeLog.log"
+    "zipUrl": "https://gh-proxy.com/github.com/refined-fish/Magisk_Mod/releases/download/ArmAll/FISH_ADB.zip",
+    "changelog": "https://gh-proxy.com/raw.githubusercontent.com/refined-fish/Magisk_Mod/refs/heads/main/ChangeLog/FISH_ADB/ChangeLog.log"
 }
